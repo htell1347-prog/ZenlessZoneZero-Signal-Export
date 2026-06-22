@@ -1,6 +1,6 @@
 # 绝区零调频记录导出工具
 
-中文 | [English](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/docs/README_EN.md)
+中文 | [English](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/master/docs/README_EN.md)
 
 项目基于[genshin-wish-export](https://github.com/biuuu/genshin-wish-export)修改而来，功能基本一致。
 
@@ -53,4 +53,4 @@ yarn build
 
 ## License
 
-[MIT](https://htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/LICENSE)
+[MIT](https://htell1347-prog/ZenlessZoneZero-Signal-Export/tree/master/LICENSE)
