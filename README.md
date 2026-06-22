@@ -20,7 +20,7 @@
 
 2. 打开游戏的祈愿历史记录
 
-   ![祈愿历史记录](/docs/wish-history.png)
+   ![祈愿历史记录](/docs/signal-history.png)
 3. 点击工具的“加载数据”按钮
 
    ![加载数据](/docs/load-data.png)
