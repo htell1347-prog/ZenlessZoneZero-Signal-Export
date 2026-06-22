@@ -1,0 +1,392 @@
+{
+  "en-us": [
+    {
+      "key": "2",
+      "name": "Exclusive Channel"
+    },
+    {
+      "key": "3",
+      "name": "W-Engine Channel"
+    },
+    {
+      "key": "1",
+      "name": "Stable Channel"
+    },
+    {
+      "key": "5",
+      "name": "Bangboo Channel"
+    },
+    {
+      "key": "102",
+      "name": "Exclusive Channel Rerun"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine Rerun"
+    }
+  ],
+  "fr-fr": [
+    {
+      "key": "2",
+      "name": "Canal exclusif"
+    },
+    {
+      "key": "3",
+      "name": "Canal de W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Canal stable"
+    },
+    {
+      "key": "5",
+      "name": "Canal Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Canal exclusif (retour)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (retour)"
+    }
+  ],
+  "de-de": [
+    {
+      "key": "2",
+      "name": "Exklusiver Kanal"
+    },
+    {
+      "key": "3",
+      "name": "W-Engine-Kanal"
+    },
+    {
+      "key": "1",
+      "name": "Standardkanal"
+    },
+    {
+      "key": "5",
+      "name": "Bangboo-Kanal"
+    },
+    {
+      "key": "102",
+      "name": "Exklusiver Kanal (Rerun)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (Rerun)"
+    }
+  ],
+  "es-es": [
+    {
+      "key": "2",
+      "name": "Canal exclusivo"
+    },
+    {
+      "key": "3",
+      "name": "Canal de W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Canal estable"
+    },
+    {
+      "key": "5",
+      "name": "Canal Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Canal exclusivo (retorno)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (retorno)"
+    }
+  ],
+  "pt-pt": [
+    {
+      "key": "2",
+      "name": "Canal Exclusivo"
+    },
+    {
+      "key": "3",
+      "name": "Canal de W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Canal Estável"
+    },
+    {
+      "key": "5",
+      "name": "Canal Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Canal Exclusivo (Retorno)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (Retorno)"
+    }
+  ],
+  "ru-ru": [
+    {
+      "key": "2",
+      "name": "Эксклюзивный канал"
+    },
+    {
+      "key": "3",
+      "name": "Канал амплификатора"
+    },
+    {
+      "key": "1",
+      "name": "Стандартный канал"
+    },
+    {
+      "key": "5",
+      "name": "Канал Банбу"
+    },
+    {
+      "key": "102",
+      "name": "Эксклюзивный канал (повтор)"
+    },
+    {
+      "key": "103",
+      "name": "Амплификатор (повтор)"
+    }
+  ],
+  "ja-jp": [
+    {
+      "key": "2",
+      "name": "限定チャンネル"
+    },
+    {
+      "key": "3",
+      "name": "音動機チャンネル"
+    },
+    {
+      "key": "1",
+      "name": "常設チャンネル"
+    },
+    {
+      "key": "5",
+      "name": "ボンプチャンネル"
+    },
+    {
+      "key": "102",
+      "name": "限定復刻チャンネル"
+    },
+    {
+      "key": "103",
+      "name": "音動機復刻"
+    }
+  ],
+  "ko-kr": [
+    {
+      "key": "2",
+      "name": "독점 채널"
+    },
+    {
+      "key": "3",
+      "name": "W-Engine 채널"
+    },
+    {
+      "key": "1",
+      "name": "상시 채널"
+    },
+    {
+      "key": "5",
+      "name": "Bangboo 채널"
+    },
+    {
+      "key": "102",
+      "name": "독점 복각 채널"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine 복각"
+    }
+  ],
+  "th-th": [
+    {
+      "key": "2",
+      "name": "ช่องพิเศษ"
+    },
+    {
+      "key": "3",
+      "name": "ช่อง W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "ช่องถาวร"
+    },
+    {
+      "key": "5",
+      "name": "ช่อง Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "ช่องพิเศษ (รีรัน)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (รีรัน)"
+    }
+  ],
+  "vi-vn": [
+    {
+      "key": "2",
+      "name": "Kênh Độc Quyền"
+    },
+    {
+      "key": "3",
+      "name": "Kênh W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Kênh Thường Trú"
+    },
+    {
+      "key": "5",
+      "name": "Kênh Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Kênh Độc Quyền (Trở Lại)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (Trở Lại)"
+    }
+  ],
+  "id-id": [
+    {
+      "key": "2",
+      "name": "Kanal Eksklusif"
+    },
+    {
+      "key": "3",
+      "name": "Kanal W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Kanal Standar"
+    },
+    {
+      "key": "5",
+      "name": "Kanal Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Kanal Eksklusif (Rerun)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (Rerun)"
+    }
+  ],
+  "zh-cn": [
+    {
+      "key": "2",
+      "name": "独家频段"
+    },
+    {
+      "key": "3",
+      "name": "音擎频段"
+    },
+    {
+      "key": "1",
+      "name": "常驻频段"
+    },
+    {
+      "key": "5",
+      "name": "邦布频段"
+    },
+    {
+      "key": "102",
+      "name": "独家重映"
+    },
+    {
+      "key": "103",
+      "name": "音擎回响"
+    }
+  ],
+  "zh-tw": [
+    {
+      "key": "2",
+      "name": "獨家頻段"
+    },
+    {
+      "key": "3",
+      "name": "音擎頻段"
+    },
+    {
+      "key": "1",
+      "name": "常駐頻段"
+    },
+    {
+      "key": "5",
+      "name": "邦布頻段"
+    },
+    {
+      "key": "102",
+      "name": "獨家重映"
+    },
+    {
+      "key": "103",
+      "name": "音擎回響"
+    }
+  ],
+  "tr-tr": [
+    {
+      "key": "2",
+      "name": "Özel Kanal"
+    },
+    {
+      "key": "3",
+      "name": "W-Engine Kanalı"
+    },
+    {
+      "key": "1",
+      "name": "Standart Kanal"
+    },
+    {
+      "key": "5",
+      "name": "Bangboo Kanalı"
+    },
+    {
+      "key": "102",
+      "name": "Özel Kanal (Tekrar)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (Tekrar)"
+    }
+  ],
+  "it-it": [
+    {
+      "key": "2",
+      "name": "Canale esclusivo"
+    },
+    {
+      "key": "3",
+      "name": "Canale W-Engine"
+    },
+    {
+      "key": "1",
+      "name": "Canale stabile"
+    },
+    {
+      "key": "5",
+      "name": "Canale Bangboo"
+    },
+    {
+      "key": "102",
+      "name": "Canale esclusivo (replica)"
+    },
+    {
+      "key": "103",
+      "name": "W-Engine (replica)"
+    }
+  ]
+}
