@@ -2,7 +2,7 @@
 
 中文 | [English](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/docs/README_EN.md)
 
-项目基于[Github](https://github.com/biuuu/genshin-wish-export)修改而来，功能基本一致。
+项目基于[genshin-wish-export](https://github.com/biuuu/genshin-wish-export)修改而来，功能基本一致。
 
 一个使用 Electron 制作的小工具，需要在 Windows 64位操作系统上运行。
 
