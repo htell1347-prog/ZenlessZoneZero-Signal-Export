@@ -1,6 +1,6 @@
 # Zenless Zone Zero Signal Export Tool
 
-[中文](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/README.md) | English
+[中文](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/blob/README.md) | English
 
 This project is based on [genshin-wish-export](https://github.com/biuuu/genshin-wish-export), with basically the same functionality.
 
@@ -54,4 +54,4 @@ yarn build
 
 ## License
 
-[MIT](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/LICENSE)
+[MIT](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/blob/master/LICENSE)
