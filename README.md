@@ -53,4 +53,5 @@ yarn build
 
 ## License
 
-[MIT](https://htell1347-prog/ZenlessZoneZero-Signal-Export/blob/master/LICENSE)
+[MIT](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/blob/master/LICENSE)
+
