@@ -16,7 +16,7 @@
 
 ## 使用说明
 
-1. 下载工具后解压 - 下载地址: [Github](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/releases/latest/download/ZenlessZoneZero%20Signal%20Export.zip)
+1. 下载工具后解压 - 下载地址: [Github](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/releases/latest/download/ZenlessZoneZero-Signal-Export.zip)
 
 2. 打开游戏的调频历史记录
 
