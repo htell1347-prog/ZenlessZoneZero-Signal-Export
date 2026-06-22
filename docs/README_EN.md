@@ -16,7 +16,7 @@ Modify the JSON files in the `src/i18n/` directory to translate into other langu
 
 ## Usage
 
-1. Download and unzip the tool - Download: [GitHub](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/releases/latest/download/ZenlessZoneZero%20Signal%20Export.zip)
+1. Download and unzip the tool - Download: [GitHub](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/releases/latest/download/ZenlessZoneZero-Signal-Export.zip)
 
 2. Open the game's signal history
 
