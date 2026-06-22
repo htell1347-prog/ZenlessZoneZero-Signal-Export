@@ -2,13 +2,13 @@
 
 [中文](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/tree/main/README.md) | English
 
-This project is based on genshin-wish-export, with basically the same functionality.
+This project is based on [genshin-wish-export](https://github.com/biuuu/genshin-wish-export), with basically the same functionality.
 
 A small tool built with Electron, designed to run on Windows 64-bit operating systems.
 
-It obtains the authKey needed to access the game's wish history API by reading game logs or using proxy mode, then uses that authKey to retrieve the wish history.
+It obtains the authKey needed to access the game's signal history API by reading game logs or using proxy mode, then uses that authKey to retrieve the signal history.
 
-The tool saves data in the `userData` folder in the current directory. New wish history will be merged with local data before saving.
+The tool saves data in the `userData` folder in the current directory. New signal history will be merged with local data before saving.
 
 ## Other Languages
 
@@ -18,9 +18,9 @@ Modify the JSON files in the `src/i18n/` directory to translate into other langu
 
 1. Download and unzip the tool - Download: [GitHub](https://github.com/htell1347-prog/ZenlessZoneZero-Signal-Export/releases/latest/download/ZenlessZoneZero%20Signal%20Export.zip)
 
-2. Open the game's wish history
+2. Open the game's signal history
 
-   ![Wish History](/docs/wish-history.png)
+   ![signal History](/docs/signal-history.png)
 
 3. Click the tool's "Load Data" button
 
@@ -37,7 +37,7 @@ Modify the JSON files in the `src/i18n/` directory to translate into other langu
 
 If you need to export data for multiple accounts, click the plus button next to it.
 
-Then switch to a different account in the game, open the wish history again, and click the "Load Data" button in the tool.
+Then switch to a different account in the game, open the signal history again, and click the "Load Data" button in the tool.
 
 ## Development
 
